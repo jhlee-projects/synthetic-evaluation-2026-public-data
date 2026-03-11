@@ -49,3 +49,6 @@ po/*~
 rsconnect/
 
 data/processed/*.rda
+
+results/dist_based_results.rda
+
