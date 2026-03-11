@@ -13,6 +13,8 @@
 │
 ├── materials/
 │   └── rule_definition.md   # 원자료 변수 간 제약조건 정리
+│   └── session_info.txt          # 분석 실행 환경 정보
+│   └── codebook.xlsx             # 분석에 사용된 변수 설명
 │
 ├── results/              # 논문에 보고된 최종 표 및 그림
 │   ├── pMSE_results.rda
